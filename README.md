@@ -1,5 +1,5 @@
 # python
-'last update jun 26'
+`last update jun 30`
 ## doc
 <a href="https://docs.python.org/3/">wiki</a>,<a 
 href="https://docs.python.org/3/library/index.html#library-index">standard library</a>,<a href="https://docs.python.org/3/reference/index.html#reference-index">lenguages reference </a>,<a href="https://docs.python.org/3/extending/index.html#extending-index">Extending and Embedding the Python Interpreter</a>,
