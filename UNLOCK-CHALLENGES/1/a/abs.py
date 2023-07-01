@@ -1,6 +1,7 @@
 num1 = -10
 num2 = 5.5
 
+# abs() - function to calculate the absolute values of these numbers 
 absolute_value1 = abs(num1)
 absolute_value2 = abs(num2)
 
