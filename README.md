@@ -8,6 +8,7 @@ href="https://docs.python.org/3/library/index.html#library-index">standard libra
 ## challenges
 1. 1/ (build in)
    - a/ returns the absolute value of a number. your <a href="https://docs.python.org/3/library/functions.html#abs">doc</a>
+   - b/ create an asynchronous iterator <a href="create an asynchronous iterator">doc</a>
 
 
 
